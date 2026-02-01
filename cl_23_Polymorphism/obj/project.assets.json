@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/Resources/Projects/c#-beginner-advance/cl_23_Polymorphism/cl_23_Polymorphism.csproj",
+      "projectUniqueName": "/Volumes/Resources/Projects/csharp-beginner-advance/cl_23_Polymorphism/cl_23_Polymorphism.csproj",
       "projectName": "cl_23_Polymorphism",
-      "projectPath": "/Volumes/Resources/Projects/c#-beginner-advance/cl_23_Polymorphism/cl_23_Polymorphism.csproj",
+      "projectPath": "/Volumes/Resources/Projects/csharp-beginner-advance/cl_23_Polymorphism/cl_23_Polymorphism.csproj",
       "packagesPath": "/Users/jakir/.nuget/packages/",
-      "outputPath": "/Volumes/Resources/Projects/c#-beginner-advance/cl_23_Polymorphism/obj/",
+      "outputPath": "/Volumes/Resources/Projects/csharp-beginner-advance/cl_23_Polymorphism/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jakir/.nuget/NuGet/NuGet.Config"

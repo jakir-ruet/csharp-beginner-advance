@@ -6,8 +6,6 @@
 
 C# is a modern, strongly typed, object-oriented programming language developed by Microsoft for the .NET platform. It is widely used to build web, desktop, cloud, and game applications, and is known for its readability, performance, and rich library support.
 
-#### Multistage Build
-
 ## With Regards, `Jakir`
 
 [![LinkedIn][linkedin-shield-jakir]][linkedin-url-jakir]
