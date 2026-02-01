@@ -53,6 +53,21 @@ C# Data Types
 
 ```
 
+#### Enum `enumeration`
+
+An enum (enumeration) is a value type in C# used to define a set of named constants that represent a fixed collection of related values.
+Internally, an enum is stored as an integer, making code more readable, safe, and maintainable.
+
+#### Type Casting
+
+#### Implicit Casting (automatically) - converting a smaller type to a larger type size
+
+`char -> int -> long -> float -> double`
+
+##### Explicit Casting (manually) - converting a larger type to a smaller size type
+
+`double -> float -> long -> int -> char`
+
 ## With Regards, `Jakir`
 
 [![LinkedIn][linkedin-shield-jakir]][linkedin-url-jakir]
