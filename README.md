@@ -6,6 +6,53 @@
 
 C# is a modern, strongly typed, object-oriented programming language developed by Microsoft for the .NET platform. It is widely used to build web, desktop, cloud, and game applications, and is known for its readability, performance, and rich library support.
 
+### Data Types
+
+```bash
+C# Data Types
+│
+├── 1. Built-in Types (Predefined by C#)
+│   │
+│   ├── 1.1 Value Types (Stack)
+│   │   ├── Numeric
+│   │   │   ├── Integer: byte, sbyte, short, ushort, int, uint, long, ulong
+│   │   │   └── Floating-point: float, double, decimal
+│   │   ├── bool
+│   │   ├── char
+│   │   ├── enum
+│   │   └── struct (built-in structs: DateTime, TimeSpan, Guid)
+│   │
+│   ├── 1.2 Reference Types (Heap)
+│   │   ├── string
+│   │   ├── object
+│   │   ├── dynamic
+│   │   ├── array
+│   │   ├── delegate
+│   │   └── interface (predefined interfaces like IDisposable)
+│   │
+│   └── 1.3 Nullable Types
+│       └── Nullable<T> / T?
+│
+├── 2. User-Defined Types
+│   ├── class
+│   ├── struct
+│   ├── enum
+│   ├── interface
+│   ├── delegate
+│   └── record
+│
+├── 3. Pointer Types (Unsafe)
+│   └── int*, char*, etc.
+│
+└── 4. Modern / Special Types
+    ├── var (implicitly typed local variable)
+    ├── Span<T> / ReadOnlySpan<T> (stack-only memory slices)
+    ├── Anonymous Types (var obj = new { Name="Alex" })
+    ├── Tuples / ValueTuple (group multiple values)
+    └── Nullable Reference Types (string? in C# 8+)
+
+```
+
 ## With Regards, `Jakir`
 
 [![LinkedIn][linkedin-shield-jakir]][linkedin-url-jakir]

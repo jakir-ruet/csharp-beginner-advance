@@ -13,45 +13,44 @@
 02-ReadWrite/bin
 02-ReadWrite/obj
 
-03-BuiltinTypes/bin
-03-BuiltinTypes/obj
+03-DataTypes/bin
+03-DataTypes/obj
 
-04-/bin
-04-/obj
+04-StringTypes/bin
+04-StringTypes/obj
 
-05-/bin
-05-/obj
+05-CommonOperators/bin
+05-CommonOperators/obj
 
+06-NullableTypes/bin
+06-NullableTypes/obj
 
-06-/bin
-06-/obj
+07-TypesConversion/bin
+07-TypesConversion/obj
 
-07-/bin
-07-/obj
+08-Arrays/bin
+08-Arrays/obj
 
-08-/bin
-08-/obj
+09-Comments/bin
+09-Comments/obj
 
-09-/bin
-09-/obj
+10-ControlStatement/bin
+10-ControlStatement/obj
 
-10-/bin
-10-/obj
+11-SwitchStatement/bin
+11-SwitchStatement/obj
 
-11-/bin
-11-/obj
+12-Loops/bin
+12-Loops/obj
 
-12-/bin
-12-/obj
+13-WhileLoops/bin
+13-WhileLoops/obj
 
-13-/bin
-13-/obj
+14-DoWhileLoops/bin
+14-DoWhileLoops/obj
 
-14-/bin
-14-/obj
-
-15-/bin
-15-/obj
+15-ForForEachLoop/bin
+15-ForForEachLoop/obj
 
 16-Methods/bin
 16-Methods/obj
