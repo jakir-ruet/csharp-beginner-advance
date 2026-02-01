@@ -1,99 +1,99 @@
 /.vscode
 /.idea
 
-/.DS_Store*
+/.DS-Store*
 
 .vs/
 /bin
 /obj
 
-cl_01_HelloWord/bin
-cl_01_HelloWord/obj
+01-HelloWord/bin
+01-HelloWord/obj
 
-cl_02_ReadWrite/bin
-cl_02_ReadWrite/obj
+02-ReadWrite/bin
+02-ReadWrite/obj
 
-cl_03_BuiltinTypes/bin
-cl_03_BuiltinTypes/obj
+03-BuiltinTypes/bin
+03-BuiltinTypes/obj
 
-cl_04_/bin
-cl_04_/obj
+04-/bin
+04-/obj
 
-cl_05_/bin
-cl_05_/obj
+05-/bin
+05-/obj
 
 
-cl_06_/bin
-cl_06_/obj
+06-/bin
+06-/obj
 
-cl_07_/bin
-cl_07_/obj
+07-/bin
+07-/obj
 
-cl_08_/bin
-cl_08_/obj
+08-/bin
+08-/obj
 
-cl_09_/bin
-cl_09_/obj
+09-/bin
+09-/obj
 
-cl_10_/bin
-cl_10_/obj
+10-/bin
+10-/obj
 
-cl_11_/bin
-cl_11_/obj
+11-/bin
+11-/obj
 
-cl_12_/bin
-cl_12_/obj
+12-/bin
+12-/obj
 
-cl_13_/bin
-cl_13_/obj
+13-/bin
+13-/obj
 
-cl_14_/bin
-cl_14_/obj
+14-/bin
+14-/obj
 
-cl_15_/bin
-cl_15_/obj
+15-/bin
+15-/obj
 
-cl_16_Methods/bin
-cl_16_Methods/obj
+16-Methods/bin
+16-Methods/obj
 
-cl_17_MethodParams/bin
-cl_17_MethodParams/obj
+17-MethodParams/bin
+17-MethodParams/obj
 
-cl_18_Namespaces/bin
-cl_18_Namespaces/obj
+18-Namespaces/bin
+18-Namespaces/obj
 
-cl_19_Classes/bin
-cl_19_Classes/obj
+19-Classes/bin
+19-Classes/obj
 
-cl_20_StaticInstanceClass/bin
-cl_20_StaticInstanceClass/obj
+20-StaticInstanceClass/bin
+20-StaticInstanceClass/obj
 
-cl_21_Inheritance/bin
-cl_21_Inheritance/obj
+21-Inheritance/bin
+21-Inheritance/obj
 
-cl_22_MethodHiding/bin
-cl_22_MethodHiding/obj
+22-MethodHiding/bin
+22-MethodHiding/obj
 
-cl_24_HidingVsOverriding/bin
-cl_24_HidingVsOverriding/obj
+24-HidingVsOverriding/bin
+24-HidingVsOverriding/obj
 
-cl_25_Overloading/bin
-cl_25_Overloading/obj
+25-Overloading/bin
+25-Overloading/obj
 
-cl_26_Properties/bin
-cl_26_Properties/obj
+26-Properties/bin
+26-Properties/obj
 
-cl_27_useProperties/bin
-cl_27_useProperties/obj
+27-useProperties/bin
+27-useProperties/obj
 
-cl_28_Structs/bin
-cl_28_Structs/obj
+28-Structs/bin
+28-Structs/obj
 
-cl_29_ClassVsStructs/bin
-cl_29_ClassVsStructs/obj
+29-ClassVsStructs/bin
+29-ClassVsStructs/obj
 
-cl_30_Interfaces/bin
-cl_30_Interfaces/obj
+30-Interfaces/bin
+30-Interfaces/obj
 
-cl_31_ExplicitInterfaces/bin
-cl_31_ExplicitInterfaces/obj
+31-ExplicitInterfaces/bin
+31-ExplicitInterfaces/obj
